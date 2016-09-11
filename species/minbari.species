@@ -90,7 +90,7 @@
       "image" : "/interface/title/male.png",
       "characterImage" : "/interface/title/minbarimale.png",
       "hair" : [ "min1","min2","min3","min4","min5","min6" ],
-      "shirt" : [ "kimonochest", "monkchest", "traineechest", "traditionalchest"],
+      "shirt" : [ "kimonochest", "monkchest", "traineechest", "traditionalchest",""],
       "pants" : [ "kimonolegs", "monklegs", "traineelegs", "traditionallegs" ],
       "facialHairGroup" : "",
       "facialHair" : [ ],
