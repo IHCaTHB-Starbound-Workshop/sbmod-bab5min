@@ -1,13 +1,25 @@
 {
   "author" : "isaac as THE HONEY BADGER",
   "description" : "[h1]Minbari[/h1]
+invasion from Babylon 5!
 
 contains:
 1 race
 slightly modified humanoid sprite
+6 "hair" styles
 title/name/surname generator
-6 hair styles
-placeholder ship (apex)
+
+placeholder:
+apex ship
+hylotl outfits and tier armor
+human respawn, likely not to change
+
+soon to come:
++ crest styles
++ crest colors
++ ship
++ outfits maybe? hylotl work pretty damned well
++ 
 
 Find the server version on [url=https://github.com/IsaacHart/sbmod-bab5min]git[/url].
 
