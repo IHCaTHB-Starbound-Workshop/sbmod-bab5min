@@ -1,1 +1,17 @@
-
+[
+	{
+		"op": "add",
+		"path": "/initialquests/minbari",
+		"value": [
+			"protectorate"
+		]
+	},
+	{
+		"op": "add",
+		"path": "/pronounGenders/minbari",
+		"value": {
+			"male": "male",
+			"female": "female"
+		}
+	}
+]
