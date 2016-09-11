@@ -1,1 +1,10 @@
-
+[
+	{ "op" : "add",
+		"path" : "/species/minbari",
+		"value" : {
+			"aiFrames" : "apexai.png",
+			"portraitFrames" : "portraits/apexportrait.png",
+			"staticFrames" : "staticapex.png"
+		}
+	}
+]
