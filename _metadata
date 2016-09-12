@@ -1,6 +1,38 @@
 {
   "author" : "isaac as THE HONEY BADGER",
-  "description" : "[h1]Minbari[/h1]\ninvasion from Babylon 5!\n\ncontains:\n1 race\nslightly modified humanoid sprite\n6 ''hair'' styles\ntitle/name/surname generator\n\nplaceholder:\napex ship\nhylotl outfits and tier armor\nhuman respawn, likely not to change\n\nsoon to come:\n+ crest styles\n+ crest colors\n+ ship\n+ outfits maybe? hylotl work pretty damned well\n+ tier armor\n+ at least one weapon\n+ objects\n\nFind the server version on [url=https://github.com/IsaacHart/sbmod-bab5min]git[/url].\n\nLEAVE A COMMENT IF YOU\nlike the mod\nhate the mod\nfind an issue with the mod\ntake an issue with the mod\nhave a question about the mod\nhave a problem with the mod\nand especially\n[u][b]if you have a request[/b][/u]",
+  "description" : "[h1]Minbari invasion from Babylon 5![/h1]
+
+contains:
+1 playable race
+slightly modified humanoid sprite
+6 ''hair'' styles
+title/name/surname generator
+
+placeholder:
+apex ship
+hylotl outfits and tier armor
+human respawn, likely not to change
+
+soon to come:
++ crest styles
++ crest colors
++ ship
++ outfits maybe? hylotl work pretty damned well
++ tier armor
++ at least one weapon
++ objects
+
+Find the server version on [url=https://github.com/IsaacHart/sbmod-bab5min]git[/url].
+
+LEAVE A COMMENT IF YOU
+like the mod
+hate the mod
+find an issue with the mod
+take an issue with the mod
+have a question about the mod
+have a problem with the mod
+and especially
+[u][b]if you have a request[/b][/u]"
   "friendlyName" : "Minbari",
   "link" : "steam://url/CommunityFilePage/762353540",
   "name" : "BAB5MIN.IHC",
