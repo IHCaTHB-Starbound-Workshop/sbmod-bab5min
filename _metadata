@@ -27,7 +27,7 @@ soon to come:
 
 For more, click the MEGATHREAD link from the steam page.",
   "friendlyName" : "Minbari",
-  "includes":[],
+  "includes":["ANCOIN.IHC"],
   "link" : "steam://url/CommunityFilePage/762353540",
   "name" : "BAB5MIN.IHC",
   "requires":[],
