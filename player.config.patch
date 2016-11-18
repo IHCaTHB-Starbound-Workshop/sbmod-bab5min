@@ -1,3 +1,3 @@
 [
-{ "op" : "add", "path" : "/defaultCodexes/minbari", "value" : [ "protectorate1", "protectorate2" ] }
+{ "op" : "copy", "path" : "/defaultCodexes/minbari", "from" : "/defaultCodexes/hylotl" }
 ]

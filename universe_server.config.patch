@@ -1,16 +1,3 @@
 [
-	{ "op" : "add",
-		"path" : "/speciesShips/minbari",
-		"value" : [
-		    "/ships/apex/apext0.structure",
-			"/ships/apex/apext1.structure",
-			"/ships/apex/apext2.structure",
-			"/ships/apex/apext3.structure",
-			"/ships/apex/apext4.structure",
-			"/ships/apex/apext5.structure",
-			"/ships/apex/apext6.structure",
-			"/ships/apex/apext7.structure",
-			"/ships/apex/apext8.structure"
-		]
-	}
+{"op":"copy","path":"/speciesShips/minbari","from":"/speciesShips/apex"}
 ]
